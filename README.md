@@ -1,7 +1,5 @@
 # Clinic Management System
 
-![Clinic Management System](link-to-image.png) <!-- Add a screenshot or an image of your project if available -->
-
 This Clinic Management System is a simple C program designed for managing patient records and appointments at a medical clinic. It allows administrators to add, edit, and manage patient records, reserve appointment slots with doctors, and cancel reservations. Users can view patient records and see today's appointment reservations.
 
 ## Features
@@ -23,6 +21,6 @@ This Clinic Management System is a simple C program designed for managing patien
 - View today's appointment reservations.
 
 ## Screenshots
-![Entery Section]([URL](https://github.com/alighareeb01/Clinic-Management-System/blob/main/1.PNG)https://github.com/alighareeb01/Clinic-Management-System/blob/main/1.PNG)
+![Entery Section]([(https://github.com/alighareeb01/Clinic-Management-System/blob/main/1.PNG)https://github.com/alighareeb01/Clinic-Management-System/blob/main/1.PNG)]
 
 
