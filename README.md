@@ -21,6 +21,7 @@ This Clinic Management System is a simple C program designed for managing patien
 - View today's appointment reservations.
 
 ## Screenshots
-![Entery Section]([(https://github.com/alighareeb01/Clinic-Management-System/blob/main/1.PNG)https://github.com/alighareeb01/Clinic-Management-System/blob/main/1.PNG)]
+![Alt Text](1.PNG)
+
 
 
