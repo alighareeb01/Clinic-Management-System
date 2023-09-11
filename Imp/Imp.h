@@ -229,6 +229,7 @@ void travesre(node **root)
 	node *curr = *root;
 	if (*root == NULL)
 	{
+		printf("No One Is Enrolled In The System\n");
 		return;
 	}
 	while (curr != NULL)
